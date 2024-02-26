@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aakash-a3an.github.io/quote-gen/static/css/main.ccda18d7.css",
+    "main.css": "/Aakash-a3an.github.io/quote-gen/static/css/main.cf21dffa.css",
     "main.js": "/Aakash-a3an.github.io/quote-gen/static/js/main.e2e4a6bc.js",
     "index.html": "/Aakash-a3an.github.io/quote-gen/index.html",
-    "main.ccda18d7.css.map": "/Aakash-a3an.github.io/quote-gen/static/css/main.ccda18d7.css.map",
+    "main.cf21dffa.css.map": "/Aakash-a3an.github.io/quote-gen/static/css/main.cf21dffa.css.map",
     "main.e2e4a6bc.js.map": "/Aakash-a3an.github.io/quote-gen/static/js/main.e2e4a6bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccda18d7.css",
+    "static/css/main.cf21dffa.css",
     "static/js/main.e2e4a6bc.js"
   ]
 }
